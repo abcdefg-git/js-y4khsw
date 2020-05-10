@@ -2,14 +2,14 @@
      body {background-color:rosybrown;font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif; }
      * {font-family: "Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif}
 
-     #Ueberschrift {color: DarkRed  ; text-align: center; margin: 20px; padding:20px; border: 10px dotted Salmon; background-color: MistyRose; 
+     #Ueberschrift {color: DarkRed  ; text-align: center; margin: 20px; padding:20px; border: 5px dotted Salmon; background-color: MistyRose; 
      font-size: 20pt }
 
      h4{color:IndianRed }
     
      #Beschreibung {margin: 20px; border: 5px double grey; padding: 10px;background-color: MistyRose}
 
-     #Kasten {margin: 20px; border: 10px dotted Salmon; padding: 20px; background-color: MistyRose }
+     #Kasten {margin: 20px; border: 5px dotted Salmon; padding: 20px; background-color: MistyRose }
      #Bilder{text-align: center}
 
      #Szenen {margin: 20px; border: 5px double grey; padding: 10px;background-color: MistyRose; text-align: center}
@@ -20,10 +20,9 @@
 
      #kommentarbereich {margin: 20px; border: 1px dotted Salmon; padding: 20px; background-color: rgb(225, 255, 253); display: flex; flex-direction: column }
 
-     
-     section.kommentar{ border: 5px left solid grey }
-     section.kommentar > span{color:blueviolet; font-weight:bold; border: 5px left solid grey}
-     section.kommentar > p {color:grey; font-style: oblique; border: 5px left solid gregrey}
+     section.kommentar {margin:20px; padding: 20px; border-left: 5px solid grey }
+     section.kommentar > span{color: grey; font-weight:bold }
+     section.kommentar > p {color: black}
   
      #Quellen {padding: 20px}
      #grau {color: black}
