@@ -14,11 +14,11 @@
 
      #Szenen {margin: 20px; border: 5px double grey; padding: 10px;background-color: MistyRose; text-align: center}
      
-     #Kommentare {margin: 20px; border: 1px dotted Salmon; padding: 20px; background-color: rgb(225, 255, 253) }
+     #Kommentare {margin: 20px; border:5px solid Salmon; border-radius: 8px; padding: 20px; background-color: MistyRose }
      #kommentar-formular {display: flex; flex-direction: column }
      #kommentar-formular > * {padding: 5px; margin: 5px 0}
 
-     #kommentarbereich {margin: 20px; border: 1px dotted Salmon; padding: 20px; background-color: rgb(225, 255, 253); display: flex; flex-direction: column }
+     #kommentarbereich {margin: 20px;  border:5px solid Salmon; border-radius: 8px; padding: 20px; background-color: MistyRose; display: flex; flex-direction: column }
 
      section.kommentar {margin:20px; padding: 20px; border-left: 5px solid grey }
      section.kommentar > span{color: grey; font-weight:bold }
