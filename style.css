@@ -30,4 +30,9 @@
      #Quellen {padding: 20px}
      #grau {color: black}
 
-     section h4:hover{background-color: indianred; color:mistyrose; }
+     section {transition: box-shadow 750ms}
+     section h4 {transition: color 750ms}
+     h4:hover{color: grey;}
+     section:hover {box-shadow: 5px 10px 25px 0 black }
+
+     
