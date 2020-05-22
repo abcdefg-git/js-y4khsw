@@ -1,11 +1,7 @@
 // Nur bei StackBlitz notwendig. Nicht löschen
 import './style.css';
 
-// Eigenes JavaScript unten drunter :)
-//Wenn Knopfdruck: 
-// - aus den 2 Feldern Informationen lesen
-// - in HTML Element verpacken
-// - wieder als Kommentar ausgebeben
+
 
 var kommentarbereich = document.getElementById('kommentarbereich') 
 
