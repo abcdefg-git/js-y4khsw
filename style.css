@@ -15,6 +15,8 @@
 
      #Szenen {margin: 20px; border: 5px double grey; padding: 10px;background-color: MistyRose; text-align: center}
      
+     .youtube {width: 100%}
+     
      #Kommentare {margin: 20px; border:5px solid Salmon; border-radius: 8px; padding: 20px; background-color: MistyRose }
      #kommentar-formular {display: flex; flex-direction: column }
      #kommentar-formular > * {padding: 5px; margin: 5px 0}
