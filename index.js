@@ -1,5 +1,5 @@
 // Nur bei StackBlitz notwendig. Nicht löschen
-import './style.css';
+import ('./style.css').catch(()=>{})
 
 
 
